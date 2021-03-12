@@ -24,6 +24,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Accessibility
 ### Managers can
+![image](https://user-images.githubusercontent.com/64093617/110940661-8a337480-8337-11eb-9930-7f1c57de4be5.png)
+
 
 • Login
 
@@ -48,10 +50,14 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 - Hotel locations
 
 - Guest name
+![image](https://user-images.githubusercontent.com/64093617/110940716-9ddedb00-8337-11eb-9afd-7af8288dfca6.png)
 
 
 
 ### Users can:
+
+![image](https://user-images.githubusercontent.com/64093617/110940775-b5b65f00-8337-11eb-8733-fe43d0fe8c2a.png)
+
 • Signup and Login
 
 • Search for available places in one of the hotels by date and location
